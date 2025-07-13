@@ -1,0 +1,9 @@
+httpx
+pandas
+numpy
+nltk
+textblob
+# textblob # if you prefer over NLTK VADER
+# transformers # if using advanced sentiment models (e.g., FinBERT)
+google-generativeai # For Gemini API
+# apscheduler # if you want to schedule runs
