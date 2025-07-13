@@ -3,6 +3,7 @@ AI Agent to track a few companies involved in quantum computing for financial li
 
 
 quantum_invest_agent/
+
 ├── config.py
 ├── data_collectors.py
 ├── analyzers.py
