@@ -11,3 +11,5 @@ quantum_invest_agent/
 ├── main_agent.py
 ├── memory.py  # For persisting data
 └── requirements.txt
+
+pip install -r requirements.txt
