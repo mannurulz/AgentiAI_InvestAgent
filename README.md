@@ -1,6 +1,8 @@
 # AgentiAI_InvestAgent
 AI Agent to track a few companies involved in quantum computing for financial literacy and potential investment.
 
+Fetch Data from FIN HUB and use Gemini LLM for reasoning.
+
 
 quantum_invest_agent/
 
